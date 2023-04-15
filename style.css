@@ -1,0 +1,54 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  background-color: #d4bdec;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 40vw;
+  height: 50vh;
+  background-color: ghostwhite;
+  padding: 0.5em 1em;
+  display: flex;
+  position: relative;
+  top: 25vh;
+  border-radius: 1em;
+}
+
+.texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1em;
+}
+
+h2,
+p {
+  font-size: 2em;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.botones {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.click-aqui {
+  width: 30vw;
+  height: 30vh;
+  margin-left: 1em;
+}
+
+.empezar {
+  margin: 0.5em 0 0 1em;
+  width: 30vw;
+  height: 2em;
+}
