@@ -1,3 +1,3 @@
 # click_por_segundo
 
-hola tocare esto mas tarde por algunos bugs y el responsive
+hola a ver cuanto puedes clickear en 10s 
